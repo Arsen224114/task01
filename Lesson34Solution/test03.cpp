@@ -2,7 +2,7 @@
 using namespace std;
 
 int change(int* number) {
-	number *= 10;
+	*number = *number * 10;
 }
 
 
