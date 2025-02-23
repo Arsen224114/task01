@@ -146,6 +146,7 @@
     <ClCompile Include="algorithm.cpp" />
     <ClCompile Include="mainn.cpp" />
     <ClCompile Include="until.cpp" />
+    <ClCompile Include="дщпшс.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
