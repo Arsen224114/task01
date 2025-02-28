@@ -23,5 +23,8 @@ int main() {
 	cout << "First value index is "
 		<< find_first_value_index(array, size, value) << endl;
 
+	cout << "Last value index is "
+		<< find_last_value_index(array, size, value) << endl;
+
 	return 0;
 }
